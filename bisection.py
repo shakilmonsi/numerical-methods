@@ -1,6 +1,9 @@
 # Initial interval set করা হলো
-x1 = 0       # Interval শুরু
-x2 = 1.2     # Interval শেষ
+# x1 = 0       # Interval শুরু
+# x2 = 1.2     # Interval শেষ
+
+x1=0
+x2=1.2
 
 # Interval-এর প্রাথমিক function values বের করা হলো
 y1 = 2*x1**2 - 5*x1 + 3   # f(x1) হিসাব
